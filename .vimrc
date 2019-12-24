@@ -114,6 +114,7 @@ Plug 'junegunn/vim-easy-align'
 
 
 " On-demand loading
+Plug 'zivyangll/git-blame.vim'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'mhinz/vim-startify'
 Plug 'vim-scripts/ctrlp.vim'
@@ -126,5 +127,16 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 " Both options are optional. You don't have to install fzf in ~/.fzf
 " and you don't have to run the install script if you use fzf only in Vim.
 call plug#end()
+
+
+" plugin settings
+" git-blame
+nnoremap <Leader>s :<C-u>call gitblame#echo()<CR>
+
+
+
+
+
+
 
 filetype plugin indent on
