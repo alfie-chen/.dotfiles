@@ -63,8 +63,9 @@ nnoremap <leader>sv :source $MYVIMRC<cr>
 
 nnoremap <leader>" viw<esc>a" <esc>hbi"<esc>lel
 
-" insert mode 下，用 jk 取代 <esc>
+" insert mode and visual mode，用 jk 取代 <esc>
 inoremap jk <esc>
+vnoremap jk <esc>
 
 " 強制把原本的 <esc> 功能取消
 inoremap <esc> <nop>
