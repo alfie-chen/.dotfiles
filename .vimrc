@@ -14,7 +14,6 @@ set smartcase
 set ignorecase		"case-insensitive search
 
 
-set foldmethod=indent
 set rtp+=/usr/local/opt/fzf
 set clipboard=unnamedplus	" use system clipboard
 set wildmenu
