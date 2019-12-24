@@ -114,7 +114,6 @@ Plug 'junegunn/vim-easy-align'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'mhinz/vim-startify'
 Plug 'vim-scripts/ctrlp.vim'
-Plug 'vim-scripts/ctrlp.vim'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'easymotion/vim-easymotion'
 Plug 'vim-airline/vim-airline'
