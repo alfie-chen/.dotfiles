@@ -94,9 +94,6 @@ iabbrev ssig -- <cr>Alfie Chen<cr>alfiechen@google.com
 
 
 
-"key mapping
-noremap <SPACE> <C-F>
-
 let @a = 'IA NOTE: ^[j'
 
 " for NERDTree
