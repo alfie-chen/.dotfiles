@@ -114,11 +114,14 @@ Plug 'junegunn/vim-easy-align'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'mhinz/vim-startify'
 Plug 'vim-scripts/ctrlp.vim'
-Plug 'ctrlpvim/ctrlp.vim'
+Plug 'vim-scripts/ctrlp.vim'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'easymotion/vim-easymotion'
-Plug '/usr/local/opt/fzf'
+Plug 'vim-airline/vim-airline'
+
 " PlugInstall and PlugUpdate will clone fzf in ~/.fzf and run the install script
+Plug '/usr/local/opt/fzf'
+
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 " Both options are optional. You don't have to install fzf in ~/.fzf
 " and you don't have to run the install script if you use fzf only in Vim.
