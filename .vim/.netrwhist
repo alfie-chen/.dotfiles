@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/alfiechen/Desktop/vim_practice'
+let g:netrw_dirhist_2='/Users/alfiechen/Desktop/ACTS_Configs'
+let g:netrw_dirhist_3='/Users/alfiechen/Applications'
+let g:netrw_dirhist_4='/Users/alfiechen/.config'
+let g:netrw_dirhist_5='/Users/alfiechen/.oh-my-zsh'
+let g:netrw_dirhist_6='/Users/alfiechen/.vim/bundle/vundle.vim'
+let g:netrw_dirhist_7='/Users/alfiechen/.vim/bundle/ctrlp.vim'
+let g:netrw_dirhist_8='/Users/alfiechen/.config/nvim'
+let g:netrw_dirhist_9='/Users/alfiechen/.config/yadm/repo.git'
