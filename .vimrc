@@ -39,7 +39,7 @@ set splitright
 syntax on
 colorscheme default
 
-set paste
+set nopaste
 
 " -------------------------------------------------------------------
 
