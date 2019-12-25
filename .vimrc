@@ -120,6 +120,7 @@ Plug 'easymotion/vim-easymotion'
 Plug 'vim-airline/vim-airline'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
+Plug 'ggreer/the_silver_searcher'
 " PlugInstall and PlugUpdate will clone fzf in ~/.fzf and run the install script
 Plug '/usr/local/opt/fzf'
 
