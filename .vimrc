@@ -118,7 +118,7 @@ Plug 'vim-scripts/ctrlp.vim'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'easymotion/vim-easymotion'
 Plug 'vim-airline/vim-airline'
-
+Plug 'tpope/vim-surround'
 " PlugInstall and PlugUpdate will clone fzf in ~/.fzf and run the install script
 Plug '/usr/local/opt/fzf'
 
