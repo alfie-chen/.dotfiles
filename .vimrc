@@ -40,7 +40,7 @@ syntax on
 colorscheme default
 
 set nopaste
-set tags=./tags,tags
+set tags=./tags,tags;
 
 
 " -------------------------------------------------------------------
@@ -126,6 +126,7 @@ Plug 'ggreer/the_silver_searcher'
 Plug 'tomtom/tcomment_vim'
 Plug 'majutsushi/tagbar'
 Plug 'mileszs/ack.vim'
+Plug 'scrooloose/nerdcommenter'
 
 " PlugInstall and PlugUpdate will clone fzf in ~/.fzf and run the install script
 Plug '/usr/local/opt/fzf'
