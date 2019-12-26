@@ -40,6 +40,8 @@ syntax on
 colorscheme default
 
 set nopaste
+set tags=./tags,tags
+
 
 " -------------------------------------------------------------------
 
