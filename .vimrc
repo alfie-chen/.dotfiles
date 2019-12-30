@@ -127,7 +127,12 @@ Plug 'tomtom/tcomment_vim'
 Plug 'majutsushi/tagbar'
 Plug 'mileszs/ack.vim'
 Plug 'scrooloose/nerdcommenter'
-
+Plug 'python-mode/python-mode', { 'for': 'python', 'branch': 'develop' }
+Plug 'nvie/vim-flake8'
+Plug 'vim-syntastic/syntastic'
+Plug 'ycm-core/YouCompleteMe'
+Plug 'yggdroot/leaderf'
+Plug 'Yggdroot/LeaderF', { 'do': './install.sh' }
 " PlugInstall and PlugUpdate will clone fzf in ~/.fzf and run the install script
 Plug '/usr/local/opt/fzf'
 
